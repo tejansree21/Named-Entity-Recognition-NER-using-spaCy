@@ -29,7 +29,7 @@ For example:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/<your-username>/Named-Entity-Recognition.git
+   git clone https://github.com/tejansree21/Named-Entity-Recognition.git
    cd Named-Entity-Recognition
 
 ## How It Works
